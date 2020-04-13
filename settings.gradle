@@ -1,0 +1,2 @@
+rootProject.name='WPA3 WiFi Feature Check'
+include ':app'
